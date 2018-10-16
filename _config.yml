@@ -10,8 +10,8 @@ url:             https://zerograce.github.io
 # Owner/author information
 owner:
   name:           zeroGrace
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  avatar:         introPic.jpg
+  bio:            "慎思之 明辨之 笃行之"
   email:          siyue_yang@hust.edu.cn
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -49,7 +49,7 @@ sass:
   style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink: pretty
 
 # Amount of post to show on home page
 paginate: 5

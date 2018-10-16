@@ -1,7 +1,7 @@
 title:            Grace's blog
 description:      Describe your website here.
 disqus_shortname: 
-reading_time:     true
+reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
@@ -9,14 +9,14 @@ url:             https://zerograce.github.io
 
 # Owner/author information
 owner:
-  name:           zeroGrace
-  avatar:         introPic.jpg
+  name:           Grace Yang
+  avatar:         avatar2.jpg
   bio:            "慎思之 明辨之 笃行之"
   email:          siyue_yang@hust.edu.cn
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         zeroGrace
   stackexchange:  
   linkedin:       
   instagram:      

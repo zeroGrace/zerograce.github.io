@@ -105,7 +105,7 @@ blockquote {
    ========================================================================== */
 
 tt, code, kbd, samp, pre {
-	font-family: $code-font;
+	font-family: $base-font;
 }
 
 p > code,
@@ -124,7 +124,7 @@ td > code {
 
 pre {
 
-	@include font-rem(12);
+	@include font-rem(14);
 	line-height: 1.5;
 	overflow-x: auto;
 

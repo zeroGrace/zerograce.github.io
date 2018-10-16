@@ -58,20 +58,20 @@ body {
 
 .header-title {
 	text-align: center;
-	margin: 30px 0 0;
+	margin: 60px 0 0;
 
 	h1 {
 		margin: 10px 20px;
 		font-weight: 700;
-		@include font-rem(32);
+		@include font-rem(24);
 		color: lighten($base-color,20);
 
 		@media #{$medium} {
-			@include font-rem(48);
+			@include font-rem(32);
 		}
 
 		@media #{$large} {
-			@include font-rem(60);
+			@include font-rem(48);
 		}
 	}
 

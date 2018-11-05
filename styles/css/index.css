@@ -6318,8 +6318,8 @@ hr {
 .docs-header,
 .docs-home {
   color: rgba(255,255,255,0.8);
-  background: linear-gradient(90deg, rgba(109,146,198,1),rgba(28,104,174,1));
-  /*background-image: url(../images/bg_image.jpg)  */
+  /*background: linear-gradient(90deg, rgba(109,146,198,1),rgba(28,104,174,1));*/
+  background-image: url(../images/bg_image.jpg);
 }
 /* Page headers */
 .docs-header {

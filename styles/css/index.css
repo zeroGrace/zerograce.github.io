@@ -204,6 +204,7 @@ table {
     page-break-inside: avoid;
   }
   img {
+    margin: auto;
     max-width: 100% !important;
   }
   @page {
@@ -351,8 +352,8 @@ h6 .small,
 h1,
 h2,
 h3 {
-  margin-top: 20px;
-  margin-bottom: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 h1 small,
 h2 small,
@@ -365,8 +366,8 @@ h3 .small {
 h4,
 h5,
 h6 {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 h4 small,
 h5 small,
@@ -382,7 +383,7 @@ h1,
 }
 h2,
 .h2 {
-  font-size: 31px;
+  font-size: 32px;
 }
 h3,
 .h3 {
@@ -390,15 +391,15 @@ h3,
 }
 h4,
 .h4 {
-  font-size: 18px;
+  font-size: 20px;
 }
 h5,
 .h5 {
-  font-size: 14px;
+  font-size: 18px;
 }
 h6,
 .h6 {
-  font-size: 12px;
+  font-size: 16px;
 }
 .page-header {
   padding-bottom: 9px;
@@ -6129,6 +6130,7 @@ a:focus {
   outline-offset: -2px;
 }
 img {
+  margin: auto;
   vertical-align: middle;
 }
 .img-responsive {

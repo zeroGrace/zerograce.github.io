@@ -2,8 +2,8 @@
 layout: post
 title:  更换评论系统之从多说到云跟帖
 date:   2017-06-08 00:00:00 +0800
-categories: document
-tag: 教程
+categories: origin_file
+tag: image_in_blog
 ---
 
 * content
@@ -58,7 +58,7 @@ Disqus被墙，而我又极少翻墙。所以也不再考虑之列，最后也�
 
 点击`WEB代码`, 在右侧的`跟贴完整模块代码(Web单独版)`中复制展示框中的代码
 
-![/styles/images/yungentie/01.png]({{ '/styles/images/yungentie/04.png' | prepend: site.baseurl  }})
+![/styles/images/yungentie/01.png]
 
 修改模板代码			{#change-template-code}
 ---------------------

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 相关博客
+title: My Introduction
 permalink: /reference/
 ---
 
@@ -8,24 +8,21 @@ permalink: /reference/
 {:toc}
 
 
-走向架构师之路
-=====================
-[走向架构师之路](http://blog.csdn.net/cutesource/article/details/4901506)
+## Education Background
 
-HTTP协议详解
-=====================
-[HTTP协议详解](http://www.jmarshall.com/easy/http/)
+University:  Huazhong University of Science and Technology
 
-Axis 2.0的入门
-=====================
-[曹胜欢][http://blog.csdn.net/csh624366188/article/details/8362696](http://blog.csdn.net/csh624366188/article/details/8362696)
+Bachelor’s Degree: Information Management & Information System
 
-[一线码农]
-=====================
-算法入门和分布式缓存入门
-[http://www.cnblogs.com/huangxincheng/archive/2011/11/14/2249046.html](http://www.cnblogs.com/huangxincheng/archive/2011/11/14/2249046.html)
+## Interests
 
-[雷霄骅]
-=====================
-视音频编解码技术学习方法
-[http://blog.csdn.net/leixiaohua1020/article/details/18893769](http://blog.csdn.net/leixiaohua1020/article/details/18893769)
+- Forcasting
+- Artificial Intelligence & Machine Learning
+- Data Mining & Data Analysis
+- UI design
+
+## Friend Links
+
+### Scarlett Huang
+
+[Scarlett Huang]( http://scarletthuang.cn/)

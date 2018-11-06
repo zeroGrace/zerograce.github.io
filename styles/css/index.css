@@ -6130,7 +6130,6 @@ a:focus {
   outline-offset: -2px;
 }
 img {
-  margin: auto;
   vertical-align: middle;
 }
 .img-responsive {
@@ -6320,6 +6319,8 @@ hr {
   color: rgba(255,255,255,0.8);
   /*background: linear-gradient(90deg, rgba(109,146,198,1),rgba(28,104,174,1));*/
   background-image: url(../images/bg_image.jpg);
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
 }
 /* Page headers */
 .docs-header {

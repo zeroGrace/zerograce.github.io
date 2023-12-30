@@ -10,7 +10,7 @@ tag: jekyll
 {:toc}
 
 
-## Grace's blog     {#myblog}
+## Grace's blog     
 
 该blog基于github pages和jekyll构建，模板基于[less官网](https://lesscss.cn/)，向所有相关开发者致谢。
 

@@ -1,19 +1,19 @@
 # Site settings
-name: Grace's Blog
+name: Grace Yang
 email: siyue_yang@hust.edu.cn
-author: Grace Yang 
+author: Siyue Yang 
 #url: http://www.hifreud.com
 #resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/zeroGrace
 baseurl: ''
-description: 慎思之，明辨之，笃行之
-meta_description: Grace Yang;个人博客;慎思之，明辨之，笃行之
-motto: stay hungry
-banner: 慎思之，明辨之，笃行之
+# description: 
+# meta_description: Grace Yang;个人博客;慎思之，明辨之，笃行之
+motto: ''
+# banner: 慎思之，明辨之，笃行之
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
-paginate: 10
+# paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 

@@ -60,11 +60,11 @@ jekyll是一个静态html网站生成器，使用Ruby写的，安装前需要装
 
       浏览器地址栏输入`http://localhost:4000`，能成功打开blog即成功
 
-   6. blog内容更新、本地运行预览检查无误后，git提交并push到Github仓库里，即可通过 [https://zerograce.github.io/](https://zerograce.github.io/) 远程访问博客。（网站更新需要稍等一段时间）
+   6. blog内容更新、本地运行预览检查无误后，git提交并push到Github仓库里，即可通过 [https://zerograce.github.io/](https://zerograce.github.io/) 远程访问博客。（网站更新需要等一段时间, 有时时间较长）
 
 ## Blog模板使用与页面设置
 
-见Info of my Blog
+见[Info of my Blog](https://zerograce.github.io/2023/12/30/Info-of-my-Blog/)
 
 
 

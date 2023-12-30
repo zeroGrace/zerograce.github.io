@@ -97,13 +97,17 @@ sub {
   bottom: -0.25em;
 }
 img {
-  border: 0;
+  /*border: 0;*/
+  width:auto;
+  height:auto;
+  max-width:100%;
+  max-height:100%;
 }
 svg:not(:root) {
   overflow: hidden;
 }
 figure {
-  margin: 0;
+  margin: 0 auto;
 }
 fieldset {
   border: 1px solid #c0c0c0;
@@ -243,7 +247,8 @@ table {
   }
 }
 p {
-  margin: 0 0 10px;
+  /*margin: 0 0 12px;*/
+  font-size: 16px;
 }
 /*.lead {
   margin-bottom: @line-height-computed;
@@ -255,10 +260,13 @@ p {
     font-size: (@font-size-base * 1.5);
   }
 }*/
-small,
+.big {
+  line-height:150%
+}
+/*small,
 .small {
   font-size: 85%;
-}
+}*/
 cite {
   font-style: normal;
 }
@@ -379,11 +387,11 @@ h6 .small {
 }
 h1,
 .h1 {
-  font-size: 38px;
+  font-size: 30px;
 }
 h2,
 .h2 {
-  font-size: 32px;
+  font-size: 28px;
 }
 h3,
 .h3 {

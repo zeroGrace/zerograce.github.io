@@ -1,8 +1,20 @@
-# Grace's blog
+---
+layout: post
+title: Info of my Blog 
+date: 2023-12-30
+categories: blog
+tag: jekyll
+---
+
+* content
+{:toc}
+
+
+## Grace's blog     {#myblog}
 
 该blog基于github pages和jekyll构建，模板基于[less官网](https://lesscss.cn/)，向所有相关开发者致谢。
 
-## 更改博客布局
+### 更改博客布局
 
 修改页面基本信息：`_config.yml`文档；主要配置含义如下：
 
@@ -20,9 +32,9 @@ github: github地址
 github_username: github用户名称
 ```
 
-修改页面字体大小间距、图片位置等style信息（路径前半部分省略，下同）: `/zerograce.github.io/styles/css/index.css`文件，改CSS。
+修改页面字体大小间距、图片位置等style信息（blog所在本地路径的前半部分省略，下同）: `/zerograce.github.io/styles/css/index.css`文件，改CSS。
 
-## 发布博客
+### 发布博客
 
 每篇文章为一个markdown文件，直接放在`_posts`文件夹下面。每篇文章的开始处需要使用yml格式来写明这篇文章的简单介绍。格式如下(去掉注释)：
 
@@ -30,7 +42,7 @@ github_username: github用户名称
 ---
 layout: post
 title:  标题
-date:   2016-08-27
+date:   2023-12-30
 categories: code
 tag: python
 ---
@@ -47,15 +59,20 @@ tag: python
 文档中插入图片：
 
 - 图片需要保存在：`/zerograce.github.io/styles/pics/`文件夹下
-- markdown文件中的图片链接书写格式：`/zerograce.github.io/styles/images/pics/pic_name.png`
+- markdown文件中的图片链接书写格式：`/styles/images/pics/pic_name.png`
+- 不在blog的markdown文件里设置图片缩放，否则blog网页显示图片时无法居中。
 
-## 本地运行预览
+正文部分从2级标题开始，不加1级标题（title），这样网页布局看起来舒服一些。
 
-本地Ruby终端运行：
+个人习惯：Typora写笔记，vscode处理笔记发布格式及上传Github。
+
+### 本地运行预览
+
+Ruby终端运行：
 
 ``` bash
 # 切换到blog所在目录
-cd /zerograce.github.io/
+cd /zerograce.github.io
 # run site
 jekyll server
 ```

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python 笔记（面向对象part）
+title: Python Notes - 面向对象
 date: 2017-12-26
 categories: code
 tag: python 

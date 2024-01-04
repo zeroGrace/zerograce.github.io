@@ -14,8 +14,10 @@ University:  Huazhong University of Science and Technology
 
 Bachelor’s Degree: Information Management & Information System
 
+Now: a PhD student in the school of Management, HUST
+
 ## Interests
 
-- Forcasting
-- Artificial Intelligence & Machine Learning
-- Data Mining & Data Analysis
+- Time series forcasting
+- DL & ML
+- Data mining & Data analysis

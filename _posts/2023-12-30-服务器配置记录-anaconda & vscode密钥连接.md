@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  服务器配置&操作记录-1
+title:  服务器配置记录-anaconda & vscode密钥连接
 date:   2023-12-30
 categories: server
 tag: connection
@@ -10,7 +10,7 @@ tag: connection
 {:toc}
 
 
-
+服务器linux系统及版本：Pop!_OS 22.04 LTS； 连接工具：finalshell, vscode
 
 一些注意事项和建议:
 

@@ -128,7 +128,11 @@ tag: connection
 5. 激活并切换至所创建的虚拟环境
 
    ```shell
+   # 老版本conda
    conda activate enviro_name
+
+   # 新版本conda
+   source activate enviro_name
    ```
 
 6. 安装常用的python package（按个人需求）：
